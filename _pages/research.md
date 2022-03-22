@@ -17,3 +17,4 @@ author_profile: true
 
 1. "Health Insurance and Fertility: Evidence from Taxpayer Outreach" with *Jacob Goldin, Tatiana Homonoff, and Ithai Lurie*
 1. "No Penalty, No Problem? Estimating the Effect of Zeroing out the Individual Penalty on Health Insurance Coverage" with *Jacob Goldin, Kye Lippold, and Ithai Lurie*
+1. "Bounds on the Cumulative Effect of a Treatment in an Instrumental Variable Framework" with *Jacob Goldin*

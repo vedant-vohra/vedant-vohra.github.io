@@ -14,4 +14,6 @@ I am a PhD student at the [Department of Economics, University of California San
 
 My research focuses on topics in Public Economics, Development, and Political Economy. 
 
+My C.V. is [here](https://vedant-vohra.github.io/files/VedantVohra_CV.pdf).
+
 You can reach me at [vohra@ucsd.edu](mailto:vohra@ucsd.edu).
