@@ -11,7 +11,7 @@ author_profile: true
 
 ## Working Papers
 
-1. "The Claiming of Children on U.S. Tax Returns, 2017-2019" with *Geoffrey Gee, Jacob Goldin, Joseph Hancuch, and Ithai Lurie*
+1. "[The Claiming of Children on U.S. Tax Returns, 2017-2019](https://drive.google.com/file/d/1JotuZf-T3NVWRoeVlvWBrd3T1BR-qzpo/view)" with *Geoffrey Gee, Jacob Goldin, Joseph Hancuch, and Ithai Lurie*. [Submitted]
 
 ## Selected Work in Progress
 
