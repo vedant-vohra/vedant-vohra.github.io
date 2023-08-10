@@ -10,6 +10,8 @@ author_profile: true
 
 
 ## Working Papers
+"[Identifying the Cumulative Causal Effect of a Non-Binary Treatment from a Binary Instrument]" with *Jacob Goldin*. 
 
-1. "[The Claiming of Children on U.S. Tax Returns](https://drive.google.com/file/d/1JotuZf-T3NVWRoeVlvWBrd3T1BR-qzpo/view)" with *Geoffrey Gee, Jacob Goldin, Joseph Hancuch, and Ithai Lurie*. [R&R, National Tax Journal]
+"[The Claiming of Children on U.S. Tax Returns](https://vedant-vohra.github.io/files/child-claiming-draft-032522.pdf)" with *Geoffrey Gee, Jacob Goldin, Joseph Hancuch, and Ithai Lurie*. [Revise and Resubmit, National Tax Journal]
+
 
