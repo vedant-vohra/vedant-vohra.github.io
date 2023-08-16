@@ -5,6 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
+{% include base_path %}
+
+
 ### As Teaching Assistant
 
 - ECON 220A: Econometrics A (PhD Core) *Fall 2023*
