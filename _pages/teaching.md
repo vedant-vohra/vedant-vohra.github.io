@@ -12,7 +12,7 @@ author_profile: true
 
 - **ECON 220A: Econometrics A** (PhD Core) 
 
-    Fall 2023
+    Fall 2023 [(Evaluations)](https://vedant-vohra.github.io/files/Econ-220A-FA23-Evaluations.pdf)
 
 - **ECON 5: Data Analytics for the Social Sciences**  (Undergraduate) 
 
