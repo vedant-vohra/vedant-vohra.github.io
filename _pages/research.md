@@ -17,7 +17,7 @@ author_profile: true
 [cce_nber_wp]: https://www.nber.org/papers/w32425 
 
 **The Claiming of Children on U.S. Tax Returns** with Geoffrey Gee, Jacob Goldin, Joseph Hancuch, and Ithai Lurie <br/>
-<small>[ [Draft][children_claiming] | Revise and Resubmit, National Tax Journal] </small>
+<small>[ [Draft][children_claiming] | Revise and Resubmit, National Tax Journal ] </small>
 
 [children_claiming]: https://vedant-vohra.github.io/files/child-claiming-draft-032522.pdf
 
