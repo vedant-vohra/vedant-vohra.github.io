@@ -12,7 +12,7 @@ author_profile: true
 **Identifying the Cumulative Causal Effect of a Non-Binary Treatment from a Binary Instrument** with Jacob Goldin <br />
 <small>[ [Draft][cce_draft_link] | [NBER WP][cce_nber_wp] | Revision Resubmitted, Review of Economics and Statistics ] </small>
 
-[cce_draft_link]: https://vedant-vohra.github.io/files/CCE_042924.pdf
+[cce_draft_link]: https://vedant-vohra.github.io/files/CCE.pdf
 
 [cce_nber_wp]: https://www.nber.org/papers/w32425 
 
