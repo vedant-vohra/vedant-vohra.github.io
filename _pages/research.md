@@ -9,6 +9,11 @@ author_profile: true
 
 
 ## Working Papers
+**Hypothesis Testing in the Absence of Microdata** <br />
+<small>[ [Draft][missing_cov_draft_link] ] </small>
+
+[missing_cov_draft_link]: https://vedant-vohra.github.io/files/missing-cov-draft.pdf
+
 **Identifying the Cumulative Causal Effect of a Non-Binary Treatment from a Binary Instrument** with Jacob Goldin <br />
 <small>[ [Draft][cce_draft_link] | [NBER WP][cce_nber_wp] | Revision Resubmitted, Review of Economics and Statistics ] </small>
 
