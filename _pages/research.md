@@ -8,10 +8,10 @@ author_profile: true
 {% include base_path %}
 
 ## Publications 
-##### (&dagger; indicates first-author)
+##### &dagger; indicates first-authored research
 
  
- &dagger;**Identifying the Cumulative Causal Effect of a Non-Binary Treatment from a Binary Instrument** with Jacob Goldin <br />
+&dagger;**Identifying the Cumulative Causal Effect of a Non-Binary Treatment from a Binary Instrument** with Jacob Goldin <br />
 <small>[ [Draft][cce_draft_link] | [NBER WP][cce_nber_wp] | Accepted, Review of Economics and Statistics ] </small>
 
 [cce_draft_link]: https://vedant-vohra.github.io/files/CCE.pdf
