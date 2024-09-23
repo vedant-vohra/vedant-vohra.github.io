@@ -20,9 +20,10 @@ author_profile: true
 
 ## Working Papers
 
-&dagger;**Hypothesis Testing in the Absence of Microdata** <br />
-<small>[ Draft Available upon Request ] </small>
+&dagger;**Valid Inference on Functions of Causal Effects in the Absence of Microdata** <br />
+<small>[ [ Draft ] ][inference-no-data_draft_link] </small>
 
+[inference-no-data_draft_link]: https://vedant-vohra.github.io/files/inference-no-data.pdf
 
 
 **The Claiming of Children on U.S. Tax Returns** with Geoffrey Gee, Jacob Goldin, Joseph Hancuch, and Ithai Lurie <br/>
