@@ -9,7 +9,7 @@ author_profile: true
 
 ###### &dagger; indicates first-authored research
 
-## Publications 
+# <center> Publications </center>
 
  
 &dagger;**Identifying the Cumulative Causal Effect of a Non-Binary Treatment from a Binary Instrument** with Jacob Goldin <br />
@@ -19,7 +19,7 @@ author_profile: true
 
 [cce_nber_wp]: https://www.nber.org/papers/w32425 
 
-## Working Papers
+# <center> Working Papers </center>
 
 &dagger;**Valid Inference on Functions of Causal Effects in the Absence of Microdata** <br />
 <small>[ [Draft][inference_no_data_draft_link] | [arXiv][inference_no_data_arxiv] ] </small>
@@ -35,5 +35,7 @@ author_profile: true
 [children_claiming]: https://vedant-vohra.github.io/files/child-claiming-draft-032522.pdf
 
 
-## Selected Works in Progress
+# <center> Selected Work in Progress </center>
+**Racial Penalty in Job Ladder Transitions** with Briana Sullivan and Itzik Fadlon
+
 **Normalizing and Pooling Rank-based Regression Discontinuity Designs** with Matias D. Cattaneo, Gordon B. Dahl, and Xinwei Ma
