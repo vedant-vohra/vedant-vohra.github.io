@@ -20,7 +20,6 @@ You can reach me at [vohra@ucsd.edu](mailto:vohra@ucsd.edu).
 
 ## <center> Updates </center>
 - I was very fortunate to receive some department honors recently. 
-
   - Walter Heller Memorial Prize for the best 3rd year paper
   - Zhao Family Fellowship for the most promising graduate student research in econometrics
   - GSRS Award for the best student presentation of 20203-24
