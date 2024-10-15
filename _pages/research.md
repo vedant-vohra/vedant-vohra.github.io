@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-###### &dagger; indicates first-authored research
+###### &dagger; Indicates First-Authored Research
 
 ## Publications 
 
@@ -22,7 +22,8 @@ author_profile: true
 ## Working Papers
 
 &dagger;**Valid Inference on Functions of Causal Effects in the Absence of Microdata** <br />
-<small>[ [Draft][inference_no_data_draft_link] | [arXiv][inference_no_data_arxiv] ] </small>
+<small>[ [Draft][inference_no_data_draft_link] | [arXiv][inference_no_data_arxiv] ] <br /> </small>
+*<small>Winner of Walter Heller Memorial Prize (Best 3rd Year Paper)</small>*
 
 [inference_no_data_draft_link]: https://vedant-vohra.github.io/files/inference-no-data.pdf
 
