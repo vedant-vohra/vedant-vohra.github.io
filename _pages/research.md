@@ -30,7 +30,7 @@ author_profile: true
 [inference_no_data_arxiv]: https://arxiv.org/abs/2410.00217
 
 
-**The Claiming of Children on U.S. Tax Returns** with Geoffrey Gee, Jacob Goldin, Joseph Hancuch, and Ithai Lurie <br/>
+**The Claiming of Children on U.S. Tax Returns** with Geoffrey Gee, Jacob Goldin, Joseph Gray-Hancuch, and Ithai Lurie <br/>
 <small>[ [Draft][children_claiming] | Revision Resubmitted, National Tax Journal ] </small>
 
 [children_claiming]: https://vedant-vohra.github.io/files/child-claiming.pdf
