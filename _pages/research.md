@@ -31,10 +31,11 @@ author_profile: true
 
 
 **The Claiming of Children on U.S. Tax Returns** with Geoffrey Gee, Jacob Goldin, Joseph Gray-Hancuch, and Ithai Lurie <br/>
-<small>[ [Draft][children_claiming] | Revision Resubmitted, National Tax Journal ] </small>
+<small>[ [Draft][children_claiming] | [NBER WP][children_claiming_nber_wp] | Revision Resubmitted, National Tax Journal ] </small>
 
 [children_claiming]: https://vedant-vohra.github.io/files/child-claiming.pdf
 
+[children_claiming_nber_wp]: https://www.nber.org/papers/w33277
 
 ##  Selected Work in Progress 
 **Racial Penalty in Job Ladder Transitions** with Briana Sullivan and Itzik Fadlon
