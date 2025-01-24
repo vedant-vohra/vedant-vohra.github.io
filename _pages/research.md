@@ -21,6 +21,14 @@ author_profile: true
 
 ## Working Papers
 
+**The Claiming of Children on U.S. Tax Returns** with Geoffrey Gee, Jacob Goldin, Joseph Gray-Hancuch, and Ithai Lurie <br/>
+<small>[ [Draft][children_claiming] | [NBER WP][children_claiming_nber_wp] | Conditionally Accepted, National Tax Journal ] </small>
+
+[children_claiming]: https://vedant-vohra.github.io/files/child-claiming.pdf
+
+[children_claiming_nber_wp]: https://www.nber.org/papers/w33277
+
+
 &dagger;**Valid Inference on Functions of Causal Effects in the Absence of Microdata** <br />
 <small>[ [Draft][inference_no_data_draft_link] | [arXiv][inference_no_data_arxiv] | Under Review ] <br /> </small>
 *<small>Winner of Walter Heller Memorial Prize (Best 3rd Year Paper)</small>*
@@ -28,14 +36,6 @@ author_profile: true
 [inference_no_data_draft_link]: https://vedant-vohra.github.io/files/inference-no-data.pdf
 
 [inference_no_data_arxiv]: https://arxiv.org/abs/2410.00217
-
-
-**The Claiming of Children on U.S. Tax Returns** with Geoffrey Gee, Jacob Goldin, Joseph Gray-Hancuch, and Ithai Lurie <br/>
-<small>[ [Draft][children_claiming] | [NBER WP][children_claiming_nber_wp] | Revision Resubmitted, National Tax Journal ] </small>
-
-[children_claiming]: https://vedant-vohra.github.io/files/child-claiming.pdf
-
-[children_claiming_nber_wp]: https://www.nber.org/papers/w33277
 
 ##  Selected Work in Progress 
 **Racial Penalty in Job Ladder Transitions** with Briana Sullivan and Itzik Fadlon
