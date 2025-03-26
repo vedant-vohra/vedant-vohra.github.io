@@ -14,6 +14,10 @@ author_profile: true
 
     Fall 2023 [(Evaluations)](https://vedant-vohra.github.io/files/Econ-220A-FA23-Evaluations.pdf), Fall 2024 [(Evaluations)](https://vedant-vohra.github.io/files/Econ-220A-FA24-Evaluations.pdf)
 
+- **GPCO 468: Evaluating Technological Innovations** (M.A. Capstone Course) 
+
+    Winter 2025 [(Evaluations)](https://vedant-vohra.github.io/files/GPS-Capstone-WI25-Evaluations.pdf)
+
 - **ECON 5: Data Analytics for the Social Sciences**  (Undergraduate) 
 
     Winter 2023, Spring 2023
