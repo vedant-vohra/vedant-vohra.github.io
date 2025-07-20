@@ -28,18 +28,26 @@ author_profile: true
 
 ## Working Papers
 
+**The Racial Penalty in Job Ladder Transitions** with Briana Sullivan and Itzik Fadlon <br /> 
+<small>[ [Draft][penalty_draft_link] | [NBER WP][penalty_nber_wp] | Under Review ]  <br /> </small>
+*<small>Presented (by co-author) at University of Michigan Population Studies Center, 2024 SOLE Annual Conference, Yale
+University, Stony Brook University, 2024 All-California Labor Economics Conference, Federal Reserve Bank of Chicago, 2025 NBER Summer Institute Labor Studies-Public Economics Joint Session </small>*
+
+
+[penalty_draft_link]: https://vedant-vohra.github.io/files/racial_penalty.pdf
+
+[penalty_nber_wp]: https://www.nber.org/papers/w34058 
+
 &dagger;**Valid Inference on Functions of Causal Effects in the Absence of Microdata** <br />
-<small>[ [Draft][inference_no_data_draft_link] | [arXiv][inference_no_data_arxiv] ] <br /> </small>
+<small>[ [Draft][inference_no_data_draft_link] | [arXiv][inference_no_data_arxiv] | New version coming soon! ] <br /> </small>
 *<small>Winner of Walter Heller Memorial Prize (Best 3rd Year Paper)</small>*
 
 [inference_no_data_draft_link]: https://vedant-vohra.github.io/files/inference-no-data.pdf
 
 [inference_no_data_arxiv]: https://arxiv.org/abs/2410.00217
 
+
 ##  Selected Work in Progress 
-**Racial Penalty in Job Ladder Transitions** with Briana Sullivan and Itzik Fadlon <br /> 
-*<small>Presented (by co-author) at University of Michigan Population Studies Center, 2024 SOLE Annual Conference, Yale
-University, Stony Brook University, 2024 All-California Labor Economics Conference, Federal Reserve Bank of Chicago, 2025 NBER Summer Institute Labor Studies-Public Economics Joint Session (Scheduled) </small>*
 
 **Enhancing Revenue Collection Capacity through Automation: Evidence from a VAT** with Bhanu Gupta and Tejaswi Velayudhan <br /> 
 *<small>Presented at Southern California Conference in Applied Microeconomics (2025)</small>*
