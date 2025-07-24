@@ -29,7 +29,7 @@ author_profile: true
 ## Working Papers
 
 **The Racial Penalty in Job Ladder Transitions** with Briana Sullivan and Itzik Fadlon <br /> 
-<small>[ [Draft][penalty_draft_link] | [NBER WP][penalty_nber_wp] ]  <br /> </small>
+<small>[ [Draft][penalty_draft_link] | [NBER WP][penalty_nber_wp] | Under Review ]  <br /> </small>
 *<small>Presented (by co-author) at University of Michigan Population Studies Center, 2024 SOLE Annual Conference, Yale
 University, Stony Brook University, 2024 All-California Labor Economics Conference, Federal Reserve Bank of Chicago, 2025 NBER Summer Institute Labor Studies-Public Economics Joint Session </small>*
 
