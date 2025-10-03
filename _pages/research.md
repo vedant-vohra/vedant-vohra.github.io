@@ -47,11 +47,6 @@ University, Stony Brook University, 2024 All-California Labor Economics Conferen
 
 [penalty_nber_wp]: https://www.nber.org/papers/w34058 
 
-
-
-
-##  Selected Work in Progress 
-
 **Enhancing Revenue Collection Capacity through Automation: Evidence from a VAT** with Bhanu Gupta and Tejaswi Velayudhan <br /> 
-*<small>Presented at Southern California Conference in Applied Microeconomics (2025)</small>*
+*<small>Presented at Southern California Conference in Applied Microeconomics (2025); 118th Annual Conference on Taxation, NTA (2025) </small>*
 
