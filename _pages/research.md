@@ -28,8 +28,17 @@ author_profile: true
 
 ## Working Papers
 
+&dagger;**Inference for the Marginal Value of Public Funds** <br />
+<small>[ [Draft][inference_no_data_draft_link] | [arXiv][inference_no_data_arxiv] | Under Review] <br /> </small>
+*<small>Winner of Walter Heller Memorial Prize (Best 3rd Year Paper)</small>*
+
+[inference_no_data_draft_link]: https://vedant-vohra.github.io/files/mvpf_inference.pdf
+
+[inference_no_data_arxiv]: https://arxiv.org/abs/2410.00217
+
+
 **The Racial Penalty in Job Ladder Transitions** with Briana Sullivan and Itzik Fadlon <br /> 
-<small>[ [Draft][penalty_draft_link] | [NBER WP][penalty_nber_wp] | Under Review ]  <br /> </small>
+<small>[ [Draft][penalty_draft_link] | [NBER WP][penalty_nber_wp] ]  <br /> </small>
 *<small>Presented (by co-author) at University of Michigan Population Studies Center, 2024 SOLE Annual Conference, Yale
 University, Stony Brook University, 2024 All-California Labor Economics Conference, Federal Reserve Bank of Chicago, 2025 NBER Summer Institute Labor Studies-Public Economics Joint Session </small>*
 
@@ -38,13 +47,7 @@ University, Stony Brook University, 2024 All-California Labor Economics Conferen
 
 [penalty_nber_wp]: https://www.nber.org/papers/w34058 
 
-&dagger;**Valid Inference on Functions of Causal Effects in the Absence of Microdata** <br />
-<small>[ [Draft][inference_no_data_draft_link] | [arXiv][inference_no_data_arxiv] | New version coming soon! ] <br /> </small>
-*<small>Winner of Walter Heller Memorial Prize (Best 3rd Year Paper)</small>*
 
-[inference_no_data_draft_link]: https://vedant-vohra.github.io/files/inference-no-data.pdf
-
-[inference_no_data_arxiv]: https://arxiv.org/abs/2410.00217
 
 
 ##  Selected Work in Progress 
