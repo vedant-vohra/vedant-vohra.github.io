@@ -26,15 +26,19 @@ author_profile: true
 
 [children_claiming_nber_wp]: https://www.nber.org/papers/w33277
 
-## Working Papers
 
 &dagger;**Inference for the Marginal Value of Public Funds** <br />
-<small>[ [Draft][inference_no_data_draft_link] | [arXiv][inference_no_data_arxiv] | Under Review] <br /> </small>
+<small>[ [Draft][inference_no_data_draft_link] | [arXiv][inference_no_data_arxiv] | Conditionally Accepted, Journal of Public Economics] <br /> </small>
 *<small>Winner of Walter Heller Memorial Prize (Best 3rd Year Paper)</small>*
+
 
 [inference_no_data_draft_link]: https://vedant-vohra.github.io/files/mvpf_inference.pdf
 
 [inference_no_data_arxiv]: https://arxiv.org/abs/2410.00217
+
+
+## Working Papers
+
 
 
 **The Racial Penalty in Job Ladder Transitions** with Briana Sullivan and Itzik Fadlon <br /> 
