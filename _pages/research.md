@@ -37,14 +37,13 @@ author_profile: true
 
 
 &dagger;**Inference for the Marginal Value of Public Funds** <br />
+*<small style="display: block;">Winner of Walter Heller Memorial Prize (Best 3rd Year Paper)</small>*
 <small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-mvpf').toggleAttribute('open')">Abstract</a> | [Draft][inference_no_data_draft_link] | [arXiv][inference_no_data_arxiv] | Conditionally Accepted, Journal of Public Economics] <br /> </small>
 <details id="abstract-mvpf">
 <summary style="display: none;"></summary>
 <p style="font-size: 0.9em; margin: 0.8em 0; color: #000000; text-align: justify;">Economists often estimate causal effects of policies on multiple outcomes and summarize them into scalar measures of cost-effectiveness or welfare, such as the Marginal Value of Public Funds (MVPF). In many settings, microdata underlying these estimates are unavailable, leaving researchers with only published estimates and their standard errors. We develop tools for valid inference on functions of causal effects, such as the MVPF, when the correlation structure is unknown. Our approach is to construct worst-case confidence intervals, leveraging experimental designs to tighten them, and to assess robustness using breakdown analyses. We illustrate our method with MVPFs for eight policies.
 </p>
 </details>
-
-*<small style="margin-top: -0.8em; display: block;">Winner of Walter Heller Memorial Prize (Best 3rd Year Paper)</small>*
 
 [inference_no_data_draft_link]: https://vedant-vohra.github.io/files/mvpf_inference.pdf
 
@@ -56,21 +55,23 @@ author_profile: true
 
 
 **The Racial Penalty in Job Ladder Transitions** with Briana Sullivan and Itzik Fadlon <br /> 
+*<small style="display: block;">Presented (by co-author) at University of Michigan Population Studies Center, 2024 SOLE Annual Conference, Yale
+University, Stony Brook University, 2024 All-California Labor Economics Conference, Federal Reserve Bank of Chicago, 2025 NBER Summer Institute Labor Studies-Public Economics Joint Session </small>*
 <small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-penalty').toggleAttribute('open')">Abstract</a> | [Draft][penalty_draft_link] | [NBER WP][penalty_nber_wp] ]  <br /> </small>
 <details id="abstract-penalty">
 <summary style="display: none;"></summary>
-<p style="font-size: 0.9em; margin: 0.8em 0; color: #000000; text-align: justify;">We study the role of job transitions and firm pay policies in the Black-White earnings gap in the US. We use administrative data for the universe of employer-employee matches from 2005-2019 to analyze worker mobility in a general but tractable framework, which allows for firm effects that depend on workers’ job history. Using differences in average pay between origin and destination firms as the treatment intensity of a job move, we analyze transitions up and down the job ladder and estimate race-specific passthrough rates of average firm pay into a mover’s own earnings. First, we find race-specific asymmetry around the direction of the move, whereby losses experienced in downward transitions are meaningfully larger than gains from upward transitions with a similar treatment intensity. For a $1 earnings increase in transitions up the job ladder, earnings passthroughs in transitions down the job ladder impose an earnings loss of $1.25 among White workers and $1.50 among Black workers. Second, we uncover career setbacks as a novel pathway in the evolution of racial earnings gaps. In transitions down the job ladder, Black workers lose an additional $0.24 for every $1 decrease in White workers’ earnings, a finding which prevails across sex and age. This “racial penalty” is not driven by differential pay, as it is completely absent when Black and White workers move between the same firm pairs. Instead, the penalty is due to differential sorting following career setbacks, so that Black workers regain employment in “worse” jobs, with strong evidence for racial differences in access to short-run liquidity as a mechanism. Overall, our findings offer a robust and computationally simple framework for modeling earnings determination processes and have implications for safety-net policies in the American labor market.
+<p style="font-size: 0.9em; margin: 0.8em 0; color: #000000; text-align: justify;">We study the role of job transitions and firm pay policies in the Black-White earnings gap in the US. We use administrative data for the universe of employer-employee matches from 2005-2019 to analyze worker mobility in a general but tractable framework, which allows for firm effects that depend on workers’ job history. Using differences in average pay between origin and destination firms as the treatment intensity of a job move, we analyze transitions up and down the job ladder and estimate race-specific passthrough rates of average firm pay into a mover’s own earnings. First, we find race-specific asymmetry around the direction of the move, whereby losses experienced in downward transitions are meaningfully larger than gains from upward transitions with a similar treatment intensity. For a \$1 earnings increase in transitions up the job ladder, earnings passthroughs in transitions down the job ladder impose an earnings loss of \$1.25 among White workers and \$1.50 among Black workers. Second, we uncover career setbacks as a novel pathway in the evolution of racial earnings gaps. In transitions down the job ladder, Black workers lose an additional \$0.24 for every \$1 decrease in White workers’ earnings, a finding which prevails across sex and age. This “racial penalty” is not driven by differential pay, as it is completely absent when Black and White workers move between the same firm pairs. Instead, the penalty is due to differential sorting following career setbacks, so that Black workers regain employment in “worse” jobs, with strong evidence for racial differences in access to short-run liquidity as a mechanism. Overall, our findings offer a robust and computationally simple framework for modeling earnings determination processes and have implications for safety-net policies in the American labor market.
 </p>
 </details>
 
-*<small style="margin-top: -0.8em; display: block;">Presented (by co-author) at University of Michigan Population Studies Center, 2024 SOLE Annual Conference, Yale
-University, Stony Brook University, 2024 All-California Labor Economics Conference, Federal Reserve Bank of Chicago, 2025 NBER Summer Institute Labor Studies-Public Economics Joint Session </small>*
+
 
 [penalty_draft_link]: https://vedant-vohra.github.io/files/racial_penalty.pdf
 
 [penalty_nber_wp]: https://www.nber.org/papers/w34058 
 
 **Enhancing Revenue Collection Capacity through Automation: Evidence from a VAT** with Bhanu Gupta and Tejaswi Velayudhan <br /> 
+*<small style="display: block;">Presented at Southern California Conference in Applied Microeconomics (2025); 118th Annual Conference on Taxation, NTA (2025) </small>*
 <small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-vat').toggleAttribute('open')">Abstract</a> ]</small> <br /> 
 <details id="abstract-vat">
 <summary style="display: none;"></summary>
@@ -79,5 +80,4 @@ Can low-cost changes to existing digital tax administration improve the tax coll
 </p>
 </details>
 
-*<small style="margin-top: -0.8em; display: block;">Presented at Southern California Conference in Applied Microeconomics (2025); 118th Annual Conference on Taxation, NTA (2025) </small>*
 
