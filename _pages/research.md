@@ -41,7 +41,6 @@ author_profile: true
 <summary style="display: none;"></summary>
 <p style="font-size: 0.9em; margin: 0.5em 0;">Add abstract text here</p>
 </details>
-
 *<small>Winner of Walter Heller Memorial Prize (Best 3rd Year Paper)</small>*
 
 [inference_no_data_draft_link]: https://vedant-vohra.github.io/files/mvpf_inference.pdf
