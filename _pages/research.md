@@ -41,6 +41,7 @@ author_profile: true
 <summary style="display: none;"></summary>
 <p style="font-size: 0.9em; margin: 0.5em 0;">Add abstract text here</p>
 </details>
+
 *<small>Winner of Walter Heller Memorial Prize (Best 3rd Year Paper)</small>*
 
 [inference_no_data_draft_link]: https://vedant-vohra.github.io/files/mvpf_inference.pdf
@@ -68,7 +69,6 @@ University, Stony Brook University, 2024 All-California Labor Economics Conferen
 
 **Enhancing Revenue Collection Capacity through Automation: Evidence from a VAT** with Bhanu Gupta and Tejaswi Velayudhan <br /> 
 <small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-vat').toggleAttribute('open')">Abstract</a> ]</small> <br /> 
-
 <details id="abstract-vat">
 <summary style="display: none;"></summary>
 <p style="font-size: 0.9em; margin: 0.5em 0;">Add abstract text here</p>
