@@ -42,7 +42,7 @@ author_profile: true
 <p style="font-size: 0.9em; margin: 0.5em 0;">Add abstract text here</p>
 </details>
 
-*<small>Winner of Walter Heller Memorial Prize (Best 3rd Year Paper)</small>*
+*<small style="margin-top: -0.8em; display: block;">Winner of Walter Heller Memorial Prize (Best 3rd Year Paper)</small>*
 
 [inference_no_data_draft_link]: https://vedant-vohra.github.io/files/mvpf_inference.pdf
 
@@ -60,7 +60,7 @@ author_profile: true
 <p style="font-size: 0.9em; margin: 0.5em 0;">Add abstract text here</p>
 </details>
 
-*<small>Presented (by co-author) at University of Michigan Population Studies Center, 2024 SOLE Annual Conference, Yale
+*<small style="margin-top: -0.8em; display: block;">Presented (by co-author) at University of Michigan Population Studies Center, 2024 SOLE Annual Conference, Yale
 University, Stony Brook University, 2024 All-California Labor Economics Conference, Federal Reserve Bank of Chicago, 2025 NBER Summer Institute Labor Studies-Public Economics Joint Session </small>*
 
 [penalty_draft_link]: https://vedant-vohra.github.io/files/racial_penalty.pdf
@@ -74,5 +74,5 @@ University, Stony Brook University, 2024 All-California Labor Economics Conferen
 <p style="font-size: 0.9em; margin: 0.5em 0;">Add abstract text here</p>
 </details>
 
-*<small>Presented at Southern California Conference in Applied Microeconomics (2025); 118th Annual Conference on Taxation, NTA (2025) </small>*
+*<small style="margin-top: -0.8em; display: block;">Presented at Southern California Conference in Applied Microeconomics (2025); 118th Annual Conference on Taxation, NTA (2025) </small>*
 
