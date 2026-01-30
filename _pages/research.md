@@ -26,7 +26,7 @@ National Tax Journal (2026) <br/>
 [child_claiming_published]: https://www.journals.uchicago.edu/doi/10.1086/736708
  
 &dagger;**[Identifying the Cumulative Causal Effect of a Non-Binary Treatment from a Binary Instrument][cce_published]** with Jacob Goldin <br />
-Review of Economics and Statistics (Accepted) <br/>
+Accepted, Review of Economics and Statistics <br/>
 <small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-cce').toggleAttribute('open')">Abstract</a> | [Draft][cce_draft_link] | [NBER WP][cce_nber_wp] ] </small>
 <details id="abstract-cce">
 <summary style="display: none;"></summary>
@@ -45,7 +45,7 @@ Review of Economics and Statistics (Accepted) <br/>
 
 &dagger;**Inference for the Marginal Value of Public Funds** <br />
 *<small style="display: block;">Winner of Walter Heller Memorial Prize (Best 3rd Year Paper)</small>*
-Journal of Public Economics (Conditionally Accepted) <br/>
+Conditionally Accepted, Journal of Public Economics<br/>
 <small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-mvpf').toggleAttribute('open')">Abstract</a> | [Draft][inference_no_data_draft_link] | [arXiv][inference_no_data_arxiv] ] </small>
 <details id="abstract-mvpf">
 <summary style="display: none;"></summary>
