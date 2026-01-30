@@ -11,9 +11,23 @@ author_profile: true
 
 ## Publications 
 
+**[The Claiming of Children on U.S. Tax Returns][child_claiming_published]** with Geoffrey Gee, Jacob Goldin, Joseph Gray-Hancuch, and Ithai Lurie <br/>
+National Tax Journal (2026) <br/>
+<small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-children').toggleAttribute('open')">Abstract</a>  | [Draft][children_claiming] | [NBER WP][children_claiming_nber_wp] ] </small>
+<details id="abstract-children">
+<summary style="display: none;"></summary>
+<p style="font-size: 0.9em; text-align: justify;">Tax benefits tied to children form a central component of the social safety net in the United States. To participate in these programs, taxpayers must claim a child on their tax return. We study the claiming of children on tax returns by drawing on health insurance information returns to establish the presence of children in the United States. We estimate that the vast majority of insured children (approximately 95 percent) and a significant majority (between 88 and 97 percent) of all U.S. children are claimed on tax returns. Unclaimed children are disproportionately concentrated in lower income households.</p>
+</details>
+
+[children_claiming]: https://vedant-vohra.github.io/files/child-claiming.pdf
+
+[children_claiming_nber_wp]: https://www.nber.org/papers/w33277
+
+[child_claiming_published]: https://www.journals.uchicago.edu/doi/10.1086/736708
  
-&dagger;**Identifying the Cumulative Causal Effect of a Non-Binary Treatment from a Binary Instrument** with Jacob Goldin <br />
-<small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-cce').toggleAttribute('open')">Abstract</a> | [Draft][cce_draft_link] | [NBER WP][cce_nber_wp] | Accepted, Review of Economics and Statistics ] </small>
+&dagger;**[Identifying the Cumulative Causal Effect of a Non-Binary Treatment from a Binary Instrument][cce_published]** with Jacob Goldin <br />
+Review of Economics and Statistics (Accepted) <br/>
+<small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-cce').toggleAttribute('open')">Abstract</a> | [Draft][cce_draft_link] | [NBER WP][cce_nber_wp] ] </small>
 <details id="abstract-cce">
 <summary style="display: none;"></summary>
 <p style="font-size: 0.9em;text-align: justify;">The effect of a treatment may depend on the intensity with which it is administered. We study identification of ordered treatment effects with a binary instrument, focusing on the effect of moving from the treatment’s minimum to maximum intensity. With arbitrary heterogeneity across units, standard IV assumptions (Angrist and Imbens, 1995) do not constrain this parameter, even among compliers. We consider a range of additional assumptions and show how they can deliver sharp, informative bounds. We illustrate our approach with two applications, involving the effect of (1) health insurance on emergency department usage, and (2) attendance in an after-school program on student learning.
@@ -24,21 +38,15 @@ author_profile: true
 
 [cce_nber_wp]: https://www.nber.org/papers/w32425 
 
-**The Claiming of Children on U.S. Tax Returns** with Geoffrey Gee, Jacob Goldin, Joseph Gray-Hancuch, and Ithai Lurie <br/>
-<small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-children').toggleAttribute('open')">Abstract</a> | [Draft][children_claiming] | [NBER WP][children_claiming_nber_wp] | Forthcoming, National Tax Journal ] </small>
-<details id="abstract-children">
-<summary style="display: none;"></summary>
-<p style="font-size: 0.9em; text-align: justify;">Tax benefits tied to children form a central component of the social safety net in the United States. To participate in these programs, taxpayers must claim a child on their tax return. We study the claiming of children on tax returns by drawing on health insurance information returns to establish the presence of children in the United States. We estimate that the vast majority of insured children (approximately 95 percent) and a significant majority (between 88 and 97 percent) of all U.S. children are claimed on tax returns. Unclaimed children are disproportionately concentrated in lower income households.</p>
-</details>
+[cce_published]: https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01526/125015/Identifying-the-Cumulative-Causal-Effect-of-a-Non?redirectedFrom=fulltext
 
-[children_claiming]: https://vedant-vohra.github.io/files/child-claiming.pdf
 
-[children_claiming_nber_wp]: https://www.nber.org/papers/w33277
 
 
 &dagger;**Inference for the Marginal Value of Public Funds** <br />
 *<small style="display: block;">Winner of Walter Heller Memorial Prize (Best 3rd Year Paper)</small>*
-<small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-mvpf').toggleAttribute('open')">Abstract</a> | [Draft][inference_no_data_draft_link] | [arXiv][inference_no_data_arxiv] | Conditionally Accepted, Journal of Public Economics] <br /> </small>
+Journal of Public Economics (Conditionally Accepted) <br/>
+<small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-mvpf').toggleAttribute('open')">Abstract</a> | [Draft][inference_no_data_draft_link] | [arXiv][inference_no_data_arxiv] ] </small>
 <details id="abstract-mvpf">
 <summary style="display: none;"></summary>
 <p style="font-size: 0.9em; text-align: justify;">Economists often estimate causal effects of policies on multiple outcomes and summarize them into scalar measures of cost-effectiveness or welfare, such as the Marginal Value of Public Funds (MVPF). In many settings, microdata underlying these estimates are unavailable, leaving researchers with only published estimates and their standard errors. We develop tools for valid inference on functions of causal effects, such as the MVPF, when the correlation structure is unknown. Our approach is to construct worst-case confidence intervals, leveraging experimental designs to tighten them, and to assess robustness using breakdown analyses. We illustrate our method with MVPFs for eight policies.
