@@ -45,7 +45,7 @@ Accepted, Review of Economics and Statistics <br/>
 
 &dagger;**Inference for the Marginal Value of Public Funds** <br />
 *<small style="display: block;">Winner of Walter Heller Memorial Prize (Best 3rd Year Paper)</small>*
-Conditionally Accepted, Journal of Public Economics<br/>
+Accepted, Journal of Public Economics<br/>
 <small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-mvpf').toggleAttribute('open')">Abstract</a> | [Draft][inference_no_data_draft_link] | [arXiv][inference_no_data_arxiv] ] </small>
 <details id="abstract-mvpf">
 <summary style="display: none;"></summary>
