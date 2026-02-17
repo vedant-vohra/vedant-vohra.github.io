@@ -43,7 +43,7 @@ Accepted, Review of Economics and Statistics <br/>
 
 
 
-&dagger;**Inference for the Marginal Value of Public Funds** <br />
+&dagger;**Inference for Welfare Metrics** <br />
 *<small style="display: block;">Winner of Walter Heller Memorial Prize (Best 3rd Year Paper)</small>*
 Accepted, Journal of Public Economics<br/>
 <small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-mvpf').toggleAttribute('open')">Abstract</a> | [Draft][inference_no_data_draft_link] | [arXiv][inference_no_data_arxiv] ] </small>
