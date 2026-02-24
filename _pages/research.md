@@ -43,9 +43,9 @@ Accepted, Review of Economics and Statistics <br/>
 
 
 
-&dagger;**Inference for Welfare Metrics** <br />
+&dagger;**[Inference for Welfare Metrics][welfare_metrics_published]** <br />
 *<small style="display: block;">Winner of Walter Heller Memorial Prize (Best 3rd Year Paper)</small>*
-Accepted, Journal of Public Economics<br/>
+Journal of Public Economics (2026)<br/>
 <small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-mvpf').toggleAttribute('open')">Abstract</a> | [Draft][inference_no_data_draft_link] | [arXiv][inference_no_data_arxiv] ] </small>
 <details id="abstract-mvpf">
 <summary style="display: none;"></summary>
@@ -57,6 +57,7 @@ Accepted, Journal of Public Economics<br/>
 
 [inference_no_data_arxiv]: https://arxiv.org/abs/2410.00217
 
+[welfare_metrics_published]: https://www.sciencedirect.com/science/article/pii/S0047272726000393
 
 ## Working Papers
 
