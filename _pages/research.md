@@ -25,6 +25,25 @@ National Tax Journal (2026) <br/>
 
 [child_claiming_published]: https://www.journals.uchicago.edu/doi/10.1086/736708
  
+
+&dagger;**[Inference for Welfare Metrics][welfare_metrics_published]** <br />
+*<small style="display: block;">Winner of Walter Heller Memorial Prize (Best 3rd Year Paper)</small>*
+Journal of Public Economics (2026)<br/>
+<small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-mvpf').toggleAttribute('open')">Abstract</a> | [Draft][inference_no_data_draft_link] | [arXiv][inference_no_data_arxiv] ] </small>
+<details id="abstract-mvpf">
+<summary style="display: none;"></summary>
+<p style="font-size: 0.9em; text-align: justify;">Economists often estimate causal effects of policies on multiple outcomes and summarize them into scalar measures of cost-effectiveness or welfare, such as the Marginal Value of Public Funds (MVPF). In many settings, microdata underlying these estimates are unavailable, leaving researchers with only published estimates and their standard errors. We develop tools for valid inference on functions of causal effects, such as the MVPF, when the correlation structure is unknown. Our approach is to construct worst-case confidence intervals, leveraging experimental designs to tighten them, and to assess robustness using breakdown analyses. We illustrate our method with MVPFs for eight policies.
+</p>
+</details>
+
+[inference_no_data_draft_link]: https://vedant-vohra.github.io/files/mvpf_inference.pdf
+
+[inference_no_data_arxiv]: https://arxiv.org/abs/2410.00217
+
+[welfare_metrics_published]: https://www.sciencedirect.com/science/article/pii/S0047272726000393
+
+
+
 &dagger;**[Identifying the Cumulative Causal Effect of a Non-Binary Treatment from a Binary Instrument][cce_published]** with Jacob Goldin <br />
 Accepted, Review of Economics and Statistics <br/>
 <small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-cce').toggleAttribute('open')">Abstract</a> | [Draft][cce_draft_link] | [NBER WP][cce_nber_wp] ] </small>
@@ -42,22 +61,6 @@ Accepted, Review of Economics and Statistics <br/>
 
 
 
-
-&dagger;**[Inference for Welfare Metrics][welfare_metrics_published]** <br />
-*<small style="display: block;">Winner of Walter Heller Memorial Prize (Best 3rd Year Paper)</small>*
-Journal of Public Economics (2026)<br/>
-<small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-mvpf').toggleAttribute('open')">Abstract</a> | [Draft][inference_no_data_draft_link] | [arXiv][inference_no_data_arxiv] ] </small>
-<details id="abstract-mvpf">
-<summary style="display: none;"></summary>
-<p style="font-size: 0.9em; text-align: justify;">Economists often estimate causal effects of policies on multiple outcomes and summarize them into scalar measures of cost-effectiveness or welfare, such as the Marginal Value of Public Funds (MVPF). In many settings, microdata underlying these estimates are unavailable, leaving researchers with only published estimates and their standard errors. We develop tools for valid inference on functions of causal effects, such as the MVPF, when the correlation structure is unknown. Our approach is to construct worst-case confidence intervals, leveraging experimental designs to tighten them, and to assess robustness using breakdown analyses. We illustrate our method with MVPFs for eight policies.
-</p>
-</details>
-
-[inference_no_data_draft_link]: https://vedant-vohra.github.io/files/mvpf_inference.pdf
-
-[inference_no_data_arxiv]: https://arxiv.org/abs/2410.00217
-
-[welfare_metrics_published]: https://www.sciencedirect.com/science/article/pii/S0047272726000393
 
 ## Working Papers
 
