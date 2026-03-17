@@ -64,6 +64,18 @@ Accepted, Review of Economics and Statistics <br/>
 
 ## Working Papers
 
+**Enhancing Revenue Collection Capacity through Automation: Evidence from a VAT** with Bhanu Gupta, Tejaswi Velayudhan, and Ankur Garg <br /> 
+*<small style="display: block;">Presented at Southern California Conference in Applied Microeconomics (2025); 118th Annual Conference on Taxation, NTA (2025) </small>*
+<small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-vat').toggleAttribute('open')">Abstract</a> | [Draft][vat_draft_link] | Under Review]</small> <br /> 
+<details id="abstract-vat">
+<summary style="display: none;"></summary>
+<p style="font-size: 0.9em;text-align: justify;">
+Can low-cost changes to existing digital tax administration improve the tax collection capacity of the state? India's Goods and Services Tax (GST), like many developing countries, has invested heavily in digitizing tax administration allowing it to develop novel enforcement tools targeting widespread evasion through fake input credits. Using administrative data and a difference-in-differences design, we find that India's use of existing e-filing portal to restrict firms from providing tax credits to their partners until taxes were paid reduces likely-fraudulent credits. Clients of targeted firms increase tax payments, implying a 5 percent decline in overall evasion at minimal cost.
+</p>
+</details>
+
+
+[vat_draft_link]: https://vedant-vohra.github.io/files/GST_Blocking.pdf
 
 
 **The Racial Penalty in Job Ladder Transitions** with Briana Sullivan and Itzik Fadlon <br /> 
@@ -81,15 +93,4 @@ University, Stony Brook University, 2024 All-California Labor Economics Conferen
 [penalty_draft_link]: https://vedant-vohra.github.io/files/racial_penalty.pdf
 
 [penalty_nber_wp]: https://www.nber.org/papers/w34058 
-
-**Enhancing Revenue Collection Capacity through Automation: Evidence from a VAT** with Bhanu Gupta, Tejaswi Velayudhan, and Ankur Garg <br /> 
-*<small style="display: block;">Presented at Southern California Conference in Applied Microeconomics (2025); 118th Annual Conference on Taxation, NTA (2025) </small>*
-<small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-vat').toggleAttribute('open')">Abstract</a> | Draft Available Upon Request ]</small> <br /> 
-<details id="abstract-vat">
-<summary style="display: none;"></summary>
-<p style="font-size: 0.9em;text-align: justify;">
-Can low-cost changes to existing digital tax administration improve the tax collection capacity of the state? India's Goods and Services Tax (GST), like many developing countries, has invested heavily in digitizing tax administration allowing it to develop novel enforcement tools targeting widespread evasion through fake input credits. Using administrative data and a difference-in-differences design, we find that India's use of existing e-filing portal to restrict firms from providing tax credits to their partners until taxes were paid reduces likely-fraudulent credits. Clients of targeted firms increase tax payments, implying a 5 percent decline in overall evasion at minimal cost.
-</p>
-</details>
-
 
