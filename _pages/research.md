@@ -70,7 +70,7 @@ Accepted, Review of Economics and Statistics <br/>
 <details id="abstract-vat">
 <summary style="display: none;"></summary>
 <p style="font-size: 0.9em;text-align: justify;">
-Can low-cost changes to existing digital tax administration improve the tax collection capacity of the state? India's Goods and Services Tax (GST), like many developing countries, has invested heavily in digitizing tax administration allowing it to develop novel enforcement tools targeting widespread evasion through fake input credits. Using administrative data and a difference-in-differences design, we find that India's use of existing e-filing portal to restrict firms from providing tax credits to their partners until taxes were paid reduces likely-fraudulent credits. Clients of targeted firms increase tax payments, implying a 5 percent decline in overall evasion at minimal cost.
+Tax administrations around the world are investing heavily in digitization, creating new opportunities for enforcement. Can low-cost enforcement tools built atop this digital infrastructure increase tax capacity? We study an Indian intervention implementing automated cross-checks to target fraudulent input tax credits. Using administrative data, we show that the policy reduced fraudulent credits and increased tax payments, resulting in a 5 percent reduction in overall evasion at minimal cost. We find little adverse impact on legitimate activity. This type of policy is readily implementable in many developing countries that already have digital filing but are yet to exploit its full potential.
 </p>
 </details>
 
