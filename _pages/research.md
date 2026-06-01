@@ -64,7 +64,8 @@ Accepted, Review of Economics and Statistics <br/>
 
 ## Working Papers
 
-**Enhancing Revenue Collection Capacity through Automation: Evidence from a VAT** with Bhanu Gupta, Tejaswi Velayudhan, and Ankur Garg <br /> 
+**Enhancing Revenue Collection Capacity through Automation: Evidence from a VAT** with Bhanu Gupta, Tejaswi Velayudhan, and Ankur Garg <br />
+Conditionally Accepted, American Economic Review: Insights <br/>
 *<small style="display: block;">Presented at Southern California Conference in Applied Microeconomics (2025); 118th Annual Conference on Taxation, NTA (2025) </small>*
 <small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-vat').toggleAttribute('open')">Abstract</a> | [Draft][vat_draft_link] | Under Review]</small> <br /> 
 <details id="abstract-vat">
