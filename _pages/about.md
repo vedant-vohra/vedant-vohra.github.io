@@ -18,5 +18,5 @@ My C.V. is [here](https://vedant-vohra.github.io/files/VedantVohra_CV.pdf).
 
 **I am on the 2026-2027 job market.**
 
-You can reach me at [vohra@ucsd.edu](mailto:vohra@ucsd.edu).
+You can reach me at [vevohra@ucsd.edu](mailto:vevohra@ucsd.edu).
 
