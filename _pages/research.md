@@ -64,10 +64,10 @@ Accepted, Review of Economics and Statistics <br/>
 
 ## Working Papers
 
-**Enhancing Revenue Collection Capacity through Automation: Evidence from a VAT** with Bhanu Gupta, Tejaswi Velayudhan, and Ankur Garg <br />
-Conditionally Accepted, American Economic Review: Insights <br/>
+**[Enhancing Revenue Collection Capacity through Automation: Evidence from a VAT][vat_link_ssrn]** with Bhanu Gupta, Tejaswi Velayudhan, and Ankur Garg <br />
 *<small style="display: block;">Presented at Southern California Conference in Applied Microeconomics (2025); 118th Annual Conference on Taxation, NTA (2025) </small>*
-<small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-vat').toggleAttribute('open')">Abstract</a> | [Draft][vat_draft_link] | Under Review]</small> <br /> 
+Conditionally Accepted, American Economic Review: Insights <br/>
+<small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-vat').toggleAttribute('open')">Abstract</a> | [Draft][vat_draft_link]]</small> <br /> 
 <details id="abstract-vat">
 <summary style="display: none;"></summary>
 <p style="font-size: 0.9em;text-align: justify;">
@@ -77,6 +77,7 @@ Tax administrations around the world are investing heavily in digitization, crea
 
 
 [vat_draft_link]: https://vedant-vohra.github.io/files/GST_Blocking.pdf
+[vat_link_ssrn]: https://ssrn.com/abstract=6433741
 
 
 **The Racial Penalty in Job Ladder Transitions** with Briana Sullivan and Itzik Fadlon <br /> 
