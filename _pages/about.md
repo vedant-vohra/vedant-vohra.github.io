@@ -16,7 +16,7 @@ My research focuses on topics in Econometrics and Public Economics.
 
 My C.V. is [here](https://vedant-vohra.github.io/files/VedantVohra_CV.pdf). 
 
-**I am on the 2026-2027 job market.**
+**I am on the 2026-2027 Economics Job Market.**
 
 You can reach me at [vevohra@ucsd.edu](mailto:vevohra@ucsd.edu).
 
