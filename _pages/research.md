@@ -7,9 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-###### &dagger; Indicates First-Authored Research
-
-## Publications 
+<h2 class="research-section-heading">Publications</h2>
+<p class="research-first-author-note">(&dagger; Indicates First-Authored Research)</p>
 
 **[The Claiming of Children on U.S. Tax Returns][child_claiming_published]** with Geoffrey Gee, Jacob Goldin, Joseph Gray-Hancuch, and Ithai Lurie <br/>
 National Tax Journal (2026) <br/>
@@ -62,7 +61,7 @@ Accepted, Review of Economics and Statistics <br/>
 
 
 
-## Working Papers
+<h2 class="research-section-heading">Working Papers</h2>
 
 **[Enhancing Revenue Collection Capacity through Automation: Evidence from a VAT][vat_link_ssrn]** with Bhanu Gupta, Tejaswi Velayudhan, and Ankur Garg <br />
 *<small style="display: block;">Presented at Southern California Conference in Applied Microeconomics (2025); 118th Annual Conference on Taxation, NTA (2025) </small>*
@@ -95,4 +94,3 @@ University, Stony Brook University, 2024 All-California Labor Economics Conferen
 [penalty_draft_link]: https://vedant-vohra.github.io/files/racial_penalty.pdf
 
 [penalty_nber_wp]: https://www.nber.org/papers/w34058 
-
