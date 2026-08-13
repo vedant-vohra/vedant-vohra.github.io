@@ -19,7 +19,7 @@ redirect_from:
 
     <p><strong>I am on the 2026–2027 Economics Job Market.</strong></p>
 
-    <p class="home-intro__bio">I am an econometrician specializing in identification and inference, developing and applying novel tools to address open problems in public and labor economics. Previously, I worked as a Research Intern at Microsoft and a Research Fellow at Stanford University.</p>
+    <p class="home-intro__bio">My primary research interest is in econometrics, where I develop new methods for causal identification and inference in challenging, frequently encountered policy settings. I also work on topics in public and labor economics.</p>
 
     <p>My CV is <a href="https://vedant-vohra.github.io/files/VedantVohra_CV.pdf">here</a>. You can contact me at <a href="mailto:vevohra@ucsd.edu">vevohra@ucsd.edu</a></p>
 
