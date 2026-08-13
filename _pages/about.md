@@ -19,7 +19,7 @@ redirect_from:
 
     <p><strong>I am on the 2026–2027 Economics Job Market.</strong></p>
 
-    <p class="home-intro__bio">My primary research interest is in econometrics, where I develop new methods for causal identification and inference in challenging, frequently encountered policy settings. I also work on topics in public and labor economics.</p>
+    <p class="home-intro__bio">My primary research interest is in econometrics, where I develop new methods for causal identification and inference in challenging yet frequently encountered policy settings. <br> I also work on topics in public and labor economics.</p>
 
     <p>My CV is <a href="https://vedant-vohra.github.io/files/VedantVohra_CV.pdf">here</a>. You can contact me at <a href="mailto:vevohra@ucsd.edu">vevohra@ucsd.edu</a></p>
 
