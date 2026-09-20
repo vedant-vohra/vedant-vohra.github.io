@@ -74,7 +74,14 @@
 }
 
 .research-section-heading {
+  margin-top: 1em;
+  margin-bottom: 0.4em;
   font-size: $type-size-3;
+}
+
+.research-page > p,
+.research-page > details {
+  margin-bottom: 0.7em;
 }
 
 .research-first-author-note {

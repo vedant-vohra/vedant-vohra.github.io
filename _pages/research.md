@@ -3,6 +3,7 @@ layout: archive
 title: ""
 permalink: /research/
 author_profile: true
+classes: research-page
 ---
 
 {% include base_path %}
