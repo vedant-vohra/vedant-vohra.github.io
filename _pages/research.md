@@ -7,25 +7,26 @@ author_profile: true
 
 {% include base_path %}
 
-<h2 class="research-section-heading">Publications</h2>
-<p class="research-first-author-note">(&dagger; Indicates First-Authored Research)</p>
+<h2 class="research-section-heading">Job Market Paper</h2>
 
-**[The Claiming of Children on U.S. Tax Returns][child_claiming_published]** with Geoffrey Gee, Jacob Goldin, Joseph Gray-Hancuch, and Ithai Lurie <br/>
-National Tax Journal (2026) <br/>
-<small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-children').toggleAttribute('open')">Abstract</a>  | [Draft][children_claiming] | [NBER WP][children_claiming_nber_wp] ] </small>
-<details id="abstract-children">
+**1. Identification Under Universal Policy Exposure** <br/>
+*<small style="display: block;">Draft coming soon!</small>*
+<small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-jmp').toggleAttribute('open')">Abstract</a>  ] </small>
+<details id="abstract-jmp">
 <summary style="display: none;"></summary>
-<p style="font-size: 0.9em; text-align: justify;">Tax benefits tied to children form a central component of the social safety net in the United States. To participate in these programs, taxpayers must claim a child on their tax return. We study the claiming of children on tax returns by drawing on health insurance information returns to establish the presence of children in the United States. We estimate that the vast majority of insured children (approximately 95 percent) and a significant majority (between 88 and 97 percent) of all U.S. children are claimed on tax returns. Unclaimed children are disproportionately concentrated in lower income households.</p>
+<p style="font-size: 0.9em; text-align: justify;">Many important policies change the incentives of taking up treatment for an entire population at the same time. In the absence of a control group unexposed to the policy change, how can we identify its causal effect? While there is no cross-sectional variation in policy exposure, treatment take-up varies across units and over time. To leverage this variation for identification, I adapt the local average treatment effect framework to a panel setting in which units make treatment take-up decisions in each period. A unit's latent compliance type, defined by comparing potential treatment choices with and without the policy, can therefore change over time. I establish that there are two routes to point identification of the LATE under parallel trends. The first approach restricts the mechanisms governing selection into treatment, ruling out specific transitions in compliance types over time. The second restricts heterogeneity in treatment effects across latent compliance types. To relax both restrictions, I develop a marginal treatment effects approach that delivers sharp bounds on causal parameters of interest under economically motivated shape restrictions. Applying the framework to Medicare Part D, I estimate that prescription-drug coverage improved medication access and reduced labor supply among individuals induced to obtain it by the reform.
+</p>
 </details>
 
-[children_claiming]: https://vedant-vohra.github.io/files/child-claiming.pdf
+<!-- | [Draft][jmp_link] -->
+<!-- [jmp_link]: https://vedant-vohra.github.io/files/VedantVohra_JMP.pdf -->
 
-[children_claiming_nber_wp]: https://www.nber.org/papers/w33277
 
-[child_claiming_published]: https://www.journals.uchicago.edu/doi/10.1086/736708
- 
 
-&dagger;**[Inference for Welfare Metrics][welfare_metrics_published]** <br />
+<h2 class="research-section-heading">Publications</h2>
+
+
+**2. [Inference for Welfare Metrics][welfare_metrics_published]** <br />
 *<small style="display: block;">Winner of Walter Heller Memorial Prize (Best 3rd Year Paper)</small>*
 Journal of Public Economics (2026)<br/>
 <small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-mvpf').toggleAttribute('open')">Abstract</a> | [Draft][inference_no_data_draft_link] | [arXiv][inference_no_data_arxiv] ] </small>
@@ -43,7 +44,7 @@ Journal of Public Economics (2026)<br/>
 
 
 
-&dagger;**[Identifying the Cumulative Causal Effect of a Non-Binary Treatment from a Binary Instrument][cce_published]** with Jacob Goldin <br />
+**3. [Identifying the Cumulative Causal Effect of a Non-Binary Treatment from a Binary Instrument][cce_published]** with Jacob Goldin <br />
 Accepted, Review of Economics and Statistics <br/>
 <small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-cce').toggleAttribute('open')">Abstract</a> | [Draft][cce_draft_link] | [NBER WP][cce_nber_wp] ] </small>
 <details id="abstract-cce">
@@ -60,13 +61,27 @@ Accepted, Review of Economics and Statistics <br/>
 
 
 
+**4. [The Claiming of Children on U.S. Tax Returns][child_claiming_published]** with Geoffrey Gee, Jacob Goldin, Joseph Gray-Hancuch, and Ithai Lurie <br/>
+National Tax Journal (2026) <br/>
+<small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-children').toggleAttribute('open')">Abstract</a>  | [Draft][children_claiming] | [NBER WP][children_claiming_nber_wp] ] </small>
+<details id="abstract-children">
+<summary style="display: none;"></summary>
+<p style="font-size: 0.9em; text-align: justify;">Tax benefits tied to children form a central component of the social safety net in the United States. To participate in these programs, taxpayers must claim a child on their tax return. We study the claiming of children on tax returns by drawing on health insurance information returns to establish the presence of children in the United States. We estimate that the vast majority of insured children (approximately 95 percent) and a significant majority (between 88 and 97 percent) of all U.S. children are claimed on tax returns. Unclaimed children are disproportionately concentrated in lower income households.</p>
+</details>
+
+[children_claiming]: https://vedant-vohra.github.io/files/child-claiming.pdf
+
+[children_claiming_nber_wp]: https://www.nber.org/papers/w33277
+
+[child_claiming_published]: https://www.journals.uchicago.edu/doi/10.1086/736708
+
 
 <h2 class="research-section-heading">Working Papers</h2>
 
-**[Enhancing Revenue Collection Capacity through Automation: Evidence from a VAT][vat_link_ssrn]** with Bhanu Gupta, Tejaswi Velayudhan, and Ankur Garg <br />
+**5. [Enhancing Revenue Collection Capacity through Automation: Evidence from a VAT][vat_link_ssrn]** with Bhanu Gupta, Tejaswi Velayudhan, and Ankur Garg <br />
 *<small style="display: block;">Presented at Southern California Conference in Applied Microeconomics (2025); 118th Annual Conference on Taxation, NTA (2025) </small>*
 Conditionally Accepted, American Economic Review: Insights <br/>
-<small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-vat').toggleAttribute('open')">Abstract</a> | [Draft][vat_draft_link]]</small> <br /> 
+<small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-vat').toggleAttribute('open')">Abstract</a> | [Draft ][vat_draft_link]]</small> <br /> 
 <details id="abstract-vat">
 <summary style="display: none;"></summary>
 <p style="font-size: 0.9em;text-align: justify;">
@@ -79,7 +94,8 @@ Tax administrations around the world are investing heavily in digitization, crea
 [vat_link_ssrn]: https://ssrn.com/abstract=6433741
 
 
-**The Racial Penalty in Job Ladder Transitions** with Briana Sullivan and Itzik Fadlon <br /> 
+
+**6. The Racial Penalty in Job Ladder Transitions** with Briana Sullivan and Itzik Fadlon <br /> 
 *<small style="display: block;">Presented (by co-author) at University of Michigan Population Studies Center, 2024 SOLE Annual Conference, Yale
 University, Stony Brook University, 2024 All-California Labor Economics Conference, Federal Reserve Bank of Chicago, 2025 NBER Summer Institute Labor Studies-Public Economics Joint Session </small>*
 <small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-penalty').toggleAttribute('open')">Abstract</a> | [Draft][penalty_draft_link] | [NBER WP][penalty_nber_wp] ]  <br /> </small>
@@ -94,3 +110,10 @@ University, Stony Brook University, 2024 All-California Labor Economics Conferen
 [penalty_draft_link]: https://vedant-vohra.github.io/files/racial_penalty.pdf
 
 [penalty_nber_wp]: https://www.nber.org/papers/w34058 
+
+<h2 class="research-section-heading">Works in Progress</h2>
+
+**7. Testing Whether the Product of Two Parameters is Zero** with Graham Elliott<br/> 
+
+
+**8. Normalizing and Pooling Rank-based Regression Discontinuity Designs** with Matias Cattaneo, Gordon Dahl, Aibo Gong, and Xinwei Ma<br/> 
