@@ -11,16 +11,15 @@ classes: research-page
 <h2 class="research-section-heading">Job Market Paper</h2>
 
 **1. Identification Under Universal Policy Exposure** <br/>
-*<small style="display: block;">Draft coming soon!</small>*
-<small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-jmp').toggleAttribute('open')">Abstract</a>  ] </small>
+<small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-jmp').toggleAttribute('open')">Abstract</a> | [Draft][jmp_link] ] </small>
 <details id="abstract-jmp">
 <summary style="display: none;"></summary>
-<p style="font-size: 0.9em; text-align: justify;">Many important policies change the incentives of taking up treatment for an entire population at the same time. In the absence of a control group unexposed to the policy change, how can we identify its causal effect? While there is no cross-sectional variation in policy exposure, treatment take-up varies across units and over time. To leverage this variation for identification, I adapt the local average treatment effect framework to a panel setting in which units make treatment take-up decisions in each period. A unit's latent compliance type, defined by comparing potential treatment choices with and without the policy, can therefore change over time. I establish that there are two routes to point identification of the LATE under parallel trends. The first approach restricts the mechanisms governing selection into treatment, ruling out specific transitions in compliance types over time. The second restricts heterogeneity in treatment effects across latent compliance types. To relax both restrictions, I develop a marginal treatment effects approach that delivers sharp bounds on causal parameters of interest under economically motivated shape restrictions. Applying the framework to Medicare Part D, I estimate that prescription-drug coverage improved medication access and reduced labor supply among individuals induced to obtain it by the reform.
+<p style="font-size: 0.9em; text-align: justify;">Many important policy reforms have two key features. First, all units are exposed to the reform at the same time. Second, the reform changes units' incentives to take up an already available treatment. How can we leverage the reform to identify treatment effects in the absence of an unexposed comparison group? While there is no cross-sectional variation in policy exposure, units differ in how their treatment take-up responds to the reform. To leverage this variation for identification, I extend the local average treatment effect (LATE) framework to a panel setting. A unit's latent compliance type, defined by comparing potential treatment choices with and without the policy in each period, can change over time. I establish that there are two routes to point identify the LATE under parallel trends. The first approach restricts the mechanisms governing selection into treatment, ruling out specific transitions in compliance types over time. The second restricts heterogeneity in treatment effects across latent compliance types. To accommodate richer selection mechanisms and unobserved effect heterogeneity, I develop a marginal treatment effects approach that delivers sharp bounds on causal parameters of interest under economically motivated shape restrictions. Applying the framework to Medicare Part D, I estimate that prescription-drug coverage improved medication access and reduced labor supply among individuals induced to obtain it by the reform.
 </p>
 </details>
 
-<!-- | [Draft][jmp_link] -->
-<!-- [jmp_link]: https://vedant-vohra.github.io/files/VedantVohra_JMP.pdf -->
+
+[jmp_link]: https://vedant-vohra.github.io/files/VedantVohra_JMP.pdf
 
 
 
