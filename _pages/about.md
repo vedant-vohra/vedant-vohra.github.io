@@ -19,11 +19,11 @@ redirect_from:
 
     <p><strong>I am on the 2026–2027 Economics Job Market.</strong></p>
 
-    <p class="home-intro__bio">My primary research interest is econometrics. I develop new methods for causal identification and inference in challenging settings that arise frequently in applied work. I also apply these methods to topics in public and labor economics.</p>
-
-    <p>Job Market Paper: <a href="https://vedant-vohra.github.io/files/VedantVohra_JMP.pdf">Identification Under Universal Policy Exposure</a>.</p>
+    <p><strong>Job Market Paper:</strong> <a href="https://vedant-vohra.github.io/files/VedantVohra_JMP.pdf">Identification Under Universal Policy Exposure</a>.</p>
 
     <p>My CV is <a href="https://vedant-vohra.github.io/files/VedantVohra_CV.pdf">here</a>. You can contact me at <a href="mailto:vevohra@ucsd.edu">vevohra@ucsd.edu</a></p>
+
+    <p class="home-intro__bio">My primary research interest is econometrics. I develop new methods for causal identification and inference in challenging settings that arise frequently in applied work. I also apply these methods to topics in public and labor economics.</p>
 
     <div class="home-intro__contact">
       <div class="home-intro__links" aria-label="Contact links">
