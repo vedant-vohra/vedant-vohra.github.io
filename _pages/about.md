@@ -19,7 +19,7 @@ redirect_from:
 
     <p><strong>I am on the 2026–2027 Economics Job Market.</strong></p>
 
-    <p><strong>Job Market Paper:</strong> <a href="https://vedant-vohra.github.io/files/VedantVohra_JMP.pdf">Identification Under Universal Policy Exposure</a>.</p>
+    <p>Job Market Paper: <a href="https://vedant-vohra.github.io/files/VedantVohra_JMP.pdf">Identification Under Universal Policy Exposure</a>.</p>
 
     <p>My CV is <a href="https://vedant-vohra.github.io/files/VedantVohra_CV.pdf">here</a>. You can contact me at <a href="mailto:vevohra@ucsd.edu">vevohra@ucsd.edu</a></p>
 
