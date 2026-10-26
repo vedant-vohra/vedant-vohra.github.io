@@ -10,7 +10,7 @@ classes: research-page
 
 <h2 class="research-section-heading">Job Market Paper</h2>
 
-**1. Identification Under Universal Policy Exposure** <br/>
+**1. [Identification Under Universal Policy Exposure][jmp_link]** <br/>
 <small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-jmp').toggleAttribute('open')">Abstract</a> | [Draft][jmp_link] ] </small>
 <details id="abstract-jmp">
 <summary style="display: none;"></summary>
