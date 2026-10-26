@@ -17,9 +17,9 @@ redirect_from:
     <h1 id="home-intro-name">Vedant Vohra</h1>
     <p class="home-intro__role">PhD Candidate<br> Department of Economics, UC San Diego</p>
 
-    <p><strong>I am on the 2026–2027 Economics Job Market.</strong></p>
+    <p class="home-intro__job-market"><strong>I am on the 2026–2027 Economics Job Market.</strong></p>
 
-    <p><strong>Job Market Paper: <a href="https://vedant-vohra.github.io/files/VedantVohra_JMP.pdf">Identification Under Universal Policy Exposure</a></strong></p>
+    <p class="home-intro__jmp"><strong>Read my JMP here: <a href="https://vedant-vohra.github.io/files/VedantVohra_JMP.pdf">Identification Under Universal Policy Exposure</a></strong></p>
 
     <p>My CV is <a href="https://vedant-vohra.github.io/files/VedantVohra_CV.pdf">here</a>. You can contact me at <a href="mailto:vevohra@ucsd.edu">vevohra@ucsd.edu</a>.</p>
 
