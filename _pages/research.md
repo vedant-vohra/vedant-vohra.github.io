@@ -27,7 +27,6 @@ classes: research-page
 
 
 **2. [Inference for Welfare Metrics][welfare_metrics_published]** <br />
-*<small style="display: block;">Winner of Walter Heller Memorial Prize (Best 3rd Year Paper)</small>*
 Journal of Public Economics (2026)<br/>
 <small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-mvpf').toggleAttribute('open')">Abstract</a> | [Draft][inference_no_data_draft_link] | [arXiv][inference_no_data_arxiv] ] </small>
 <details id="abstract-mvpf">
@@ -44,7 +43,8 @@ Journal of Public Economics (2026)<br/>
 
 
 
-**3. [Identifying the Cumulative Causal Effect of a Non-Binary Treatment from a Binary Instrument][cce_published]** with Jacob Goldin <br />
+**3. [Identifying the Cumulative Causal Effect of a Non-Binary Treatment from a Binary Instrument][cce_published]** <br />
+Vedant Vohra (lead author) and Jacob Goldin <br />
 Accepted, Review of Economics and Statistics <br/>
 <small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-cce').toggleAttribute('open')">Abstract</a> | [Draft][cce_draft_link] | [NBER WP][cce_nber_wp] ] </small>
 <details id="abstract-cce">
@@ -61,7 +61,8 @@ Accepted, Review of Economics and Statistics <br/>
 
 
 
-**4. [The Claiming of Children on U.S. Tax Returns][child_claiming_published]** with Geoffrey Gee, Jacob Goldin, Joseph Gray-Hancuch, and Ithai Lurie <br/>
+**4. [The Claiming of Children on U.S. Tax Returns][child_claiming_published]** <br/>
+Geoffrey Gee, Jacob Goldin, Joseph Gray-Hancuch, Ithai Lurie, and Vedant Vohra <br/>
 National Tax Journal (2026) <br/>
 <small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-children').toggleAttribute('open')">Abstract</a>  | [Draft][children_claiming] | [NBER WP][children_claiming_nber_wp] ] </small>
 <details id="abstract-children">
@@ -78,7 +79,8 @@ National Tax Journal (2026) <br/>
 
 <h2 class="research-section-heading">Working Papers</h2>
 
-**5. [Enhancing Revenue Collection Capacity through Automation: Evidence from a VAT][vat_link_ssrn]** with Bhanu Gupta, Tejaswi Velayudhan, and Ankur Garg <br />
+**5. [Enhancing Revenue Collection Capacity through Automation: Evidence from a VAT][vat_link_ssrn]** <br />
+Bhanu Gupta, Tejaswi Velayudhan, Vedant Vohra, and Ankur Garg <br />
 *<small style="display: block;">Presented at Southern California Conference in Applied Microeconomics (2025); 118th Annual Conference on Taxation, NTA (2025) </small>*
 Conditionally Accepted, American Economic Review: Insights <br/>
 <small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-vat').toggleAttribute('open')">Abstract</a> | [Draft ][vat_draft_link]]</small> <br /> 
@@ -95,7 +97,8 @@ Tax administrations around the world are investing heavily in digitization, crea
 
 
 
-**6. The Racial Penalty in Job Ladder Transitions** with Briana Sullivan and Itzik Fadlon <br /> 
+**6. The Racial Penalty in Job Ladder Transitions** <br /> 
+Itzik Fadlon, Briana Sullivan, and Vedant Vohra <br /> 
 *<small style="display: block;">Presented (by co-author) at University of Michigan Population Studies Center, 2024 SOLE Annual Conference, Yale
 University, Stony Brook University, 2024 All-California Labor Economics Conference, Federal Reserve Bank of Chicago, 2025 NBER Summer Institute Labor Studies-Public Economics Joint Session </small>*
 <small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-penalty').toggleAttribute('open')">Abstract</a> | [Draft][penalty_draft_link] | [NBER WP][penalty_nber_wp] ]  <br /> </small>
@@ -113,7 +116,9 @@ University, Stony Brook University, 2024 All-California Labor Economics Conferen
 
 <h2 class="research-section-heading">Works in Progress</h2>
 
-**7. Testing Whether the Product of Two Parameters is Zero** with Graham Elliott<br/> 
+**7. Testing Whether the Product of Two Parameters is Zero** <br/>
+Graham Elliott and Vedant Vohra<br/> 
 
 
-**8. Normalizing and Pooling Rank-based Regression Discontinuity Designs** with Matias Cattaneo, Gordon Dahl, Aibo Gong, and Xinwei Ma<br/> 
+**8. Normalizing and Pooling Rank-based Regression Discontinuity Designs** <br/>
+Matias Cattaneo, Gordon Dahl, Aibo Gong, Xinwei Ma, and Vedant Vohra<br/>
