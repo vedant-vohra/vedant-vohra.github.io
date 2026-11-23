@@ -120,5 +120,5 @@ University, Stony Brook University, 2024 All-California Labor Economics Conferen
 Graham Elliott and Vedant Vohra<br/> 
 
 
-**8. Normalizing and Pooling Rank-based Regression Discontinuity Designs** <br/>
+**8. Manipulation Testing with Placebo Ranks in Pooled Regression Discontinuity Designs** <br/>
 Matias Cattaneo, Gordon Dahl, Aibo Gong, Xinwei Ma, and Vedant Vohra<br/>
