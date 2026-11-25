@@ -59,9 +59,23 @@ Accepted, Review of Economics and Statistics <br/>
 
 [cce_published]: https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01526/125015/Identifying-the-Cumulative-Causal-Effect-of-a-Non?redirectedFrom=fulltext
 
+**4. [Enhancing Revenue Collection Capacity through Automation: Evidence from a VAT][vat_link_ssrn]** <br />
+Bhanu Gupta, Tejaswi Velayudhan, Vedant Vohra, and Ankur Garg <br />
+*<small style="display: block;">Presented at Southern California Conference in Applied Microeconomics (2025); 118th Annual Conference on Taxation, NTA (2025) </small>*
+Conditionally Accepted, American Economic Review: Insights <br/>
+<small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-vat').toggleAttribute('open')">Abstract</a> | [Draft ][vat_draft_link]]</small> <br /> 
+<details id="abstract-vat">
+<summary style="display: none;"></summary>
+<p style="font-size: 0.9em;text-align: justify;">
+Tax administrations around the world are investing heavily in digitization, creating new opportunities for enforcement. Can low-cost enforcement tools built atop this digital infrastructure increase tax capacity? We study an Indian intervention implementing automated cross-checks to target fraudulent input tax credits. Using administrative data, we show that the policy reduced fraudulent credits and increased tax payments, resulting in a 5 percent reduction in overall evasion at minimal cost. We find little adverse impact on legitimate activity. This type of policy is readily implementable in many developing countries that already have digital filing but are yet to exploit its full potential.
+</p>
+</details>
 
 
-**4. [The Claiming of Children on U.S. Tax Returns][child_claiming_published]** <br/>
+[vat_draft_link]: https://vedant-vohra.github.io/files/GST_Blocking.pdf
+[vat_link_ssrn]: https://ssrn.com/abstract=6433741
+
+**5. [The Claiming of Children on U.S. Tax Returns][child_claiming_published]** <br/>
 Geoffrey Gee, Jacob Goldin, Joseph Gray-Hancuch, Ithai Lurie, and Vedant Vohra <br/>
 National Tax Journal (2026) <br/>
 <small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-children').toggleAttribute('open')">Abstract</a>  | [Draft][children_claiming] | [NBER WP][children_claiming_nber_wp] ] </small>
@@ -79,24 +93,6 @@ National Tax Journal (2026) <br/>
 
 <h2 class="research-section-heading">Working Papers</h2>
 
-**5. [Enhancing Revenue Collection Capacity through Automation: Evidence from a VAT][vat_link_ssrn]** <br />
-Bhanu Gupta, Tejaswi Velayudhan, Vedant Vohra, and Ankur Garg <br />
-*<small style="display: block;">Presented at Southern California Conference in Applied Microeconomics (2025); 118th Annual Conference on Taxation, NTA (2025) </small>*
-Conditionally Accepted, American Economic Review: Insights <br/>
-<small>[ <a href="javascript:void(0)" onclick="document.getElementById('abstract-vat').toggleAttribute('open')">Abstract</a> | [Draft ][vat_draft_link]]</small> <br /> 
-<details id="abstract-vat">
-<summary style="display: none;"></summary>
-<p style="font-size: 0.9em;text-align: justify;">
-Tax administrations around the world are investing heavily in digitization, creating new opportunities for enforcement. Can low-cost enforcement tools built atop this digital infrastructure increase tax capacity? We study an Indian intervention implementing automated cross-checks to target fraudulent input tax credits. Using administrative data, we show that the policy reduced fraudulent credits and increased tax payments, resulting in a 5 percent reduction in overall evasion at minimal cost. We find little adverse impact on legitimate activity. This type of policy is readily implementable in many developing countries that already have digital filing but are yet to exploit its full potential.
-</p>
-</details>
-
-
-[vat_draft_link]: https://vedant-vohra.github.io/files/GST_Blocking.pdf
-[vat_link_ssrn]: https://ssrn.com/abstract=6433741
-
-
-
 **6. The Racial Penalty in Job Ladder Transitions** <br /> 
 Itzik Fadlon, Briana Sullivan, and Vedant Vohra <br /> 
 *<small style="display: block;">Presented (by co-author) at University of Michigan Population Studies Center, 2024 SOLE Annual Conference, Yale
@@ -108,17 +104,15 @@ University, Stony Brook University, 2024 All-California Labor Economics Conferen
 </p>
 </details>
 
-
-
 [penalty_draft_link]: https://vedant-vohra.github.io/files/racial_penalty.pdf
 
 [penalty_nber_wp]: https://www.nber.org/papers/w34058 
 
-<h2 class="research-section-heading">Works in Progress</h2>
-
 **7. Testing Whether the Product of Two Parameters is Zero** <br/>
 Graham Elliott and Vedant Vohra<br/> 
+Draft Available Upon Request <br/>
 
+<h2 class="research-section-heading">Works in Progress</h2>
 
 **8. Manipulation Testing with Placebo Ranks in Pooled Regression Discontinuity Designs** <br/>
 Matias Cattaneo, Gordon Dahl, Aibo Gong, Xinwei Ma, and Vedant Vohra<br/>
